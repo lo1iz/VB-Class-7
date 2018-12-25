@@ -1,0 +1,24 @@
+D:\Coding\VB.NET\week 7\Example1_Arrays\Example1_Arrays\bin\Debug\Example1_Arrays.exe.config
+D:\Coding\VB.NET\week 7\Example1_Arrays\Example1_Arrays\bin\Debug\Example1_Arrays.exe
+D:\Coding\VB.NET\week 7\Example1_Arrays\Example1_Arrays\bin\Debug\Example1_Arrays.pdb
+D:\Coding\VB.NET\week 7\Example1_Arrays\Example1_Arrays\bin\Debug\Example1_Arrays.xml
+D:\Coding\VB.NET\week 7\Example1_Arrays\Example1_Arrays\obj\Debug\Example1_Arrays.vbprojAssemblyReference.cache
+D:\Coding\VB.NET\week 7\Example1_Arrays\Example1_Arrays\obj\Debug\Example1_Arrays.Form1.resources
+D:\Coding\VB.NET\week 7\Example1_Arrays\Example1_Arrays\obj\Debug\Example1_Arrays.Resources.resources
+D:\Coding\VB.NET\week 7\Example1_Arrays\Example1_Arrays\obj\Debug\Example1_Arrays.vbproj.GenerateResource.cache
+D:\Coding\VB.NET\week 7\Example1_Arrays\Example1_Arrays\obj\Debug\Example1_Arrays.vbproj.CoreCompileInputs.cache
+D:\Coding\VB.NET\week 7\Example1_Arrays\Example1_Arrays\obj\Debug\Example1_Arrays.exe
+D:\Coding\VB.NET\week 7\Example1_Arrays\Example1_Arrays\obj\Debug\Example1_Arrays.xml
+D:\Coding\VB.NET\week 7\Example1_Arrays\Example1_Arrays\obj\Debug\Example1_Arrays.pdb
+C:\Users\58121057-2\Source\Repos\VB-Class-7\Example1_Arrays\Example1_Arrays\bin\Debug\Example1_Arrays.exe.config
+C:\Users\58121057-2\Source\Repos\VB-Class-7\Example1_Arrays\Example1_Arrays\bin\Debug\Example1_Arrays.exe
+C:\Users\58121057-2\Source\Repos\VB-Class-7\Example1_Arrays\Example1_Arrays\bin\Debug\Example1_Arrays.pdb
+C:\Users\58121057-2\Source\Repos\VB-Class-7\Example1_Arrays\Example1_Arrays\bin\Debug\Example1_Arrays.xml
+C:\Users\58121057-2\Source\Repos\VB-Class-7\Example1_Arrays\Example1_Arrays\obj\Debug\Example1_Arrays.vbprojResolveAssemblyReference.cache
+C:\Users\58121057-2\Source\Repos\VB-Class-7\Example1_Arrays\Example1_Arrays\obj\Debug\Example1_Arrays.Form1.resources
+C:\Users\58121057-2\Source\Repos\VB-Class-7\Example1_Arrays\Example1_Arrays\obj\Debug\Example1_Arrays.Resources.resources
+C:\Users\58121057-2\Source\Repos\VB-Class-7\Example1_Arrays\Example1_Arrays\obj\Debug\Example1_Arrays.vbproj.GenerateResource.cache
+C:\Users\58121057-2\Source\Repos\VB-Class-7\Example1_Arrays\Example1_Arrays\obj\Debug\Example1_Arrays.vbproj.CoreCompileInputs.cache
+C:\Users\58121057-2\Source\Repos\VB-Class-7\Example1_Arrays\Example1_Arrays\obj\Debug\Example1_Arrays.exe
+C:\Users\58121057-2\Source\Repos\VB-Class-7\Example1_Arrays\Example1_Arrays\obj\Debug\Example1_Arrays.xml
+C:\Users\58121057-2\Source\Repos\VB-Class-7\Example1_Arrays\Example1_Arrays\obj\Debug\Example1_Arrays.pdb

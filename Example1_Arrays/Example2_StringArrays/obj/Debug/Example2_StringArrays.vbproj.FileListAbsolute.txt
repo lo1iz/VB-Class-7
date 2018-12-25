@@ -1,0 +1,23 @@
+D:\Coding\VB.NET\week 7\Example1_Arrays\Example2_StringArrays\bin\Debug\Example2_StringArrays.exe.config
+D:\Coding\VB.NET\week 7\Example1_Arrays\Example2_StringArrays\bin\Debug\Example2_StringArrays.exe
+D:\Coding\VB.NET\week 7\Example1_Arrays\Example2_StringArrays\bin\Debug\Example2_StringArrays.pdb
+D:\Coding\VB.NET\week 7\Example1_Arrays\Example2_StringArrays\bin\Debug\Example2_StringArrays.xml
+D:\Coding\VB.NET\week 7\Example1_Arrays\Example2_StringArrays\obj\Debug\Example2_StringArrays.Form1.resources
+D:\Coding\VB.NET\week 7\Example1_Arrays\Example2_StringArrays\obj\Debug\Example2_StringArrays.Resources.resources
+D:\Coding\VB.NET\week 7\Example1_Arrays\Example2_StringArrays\obj\Debug\Example2_StringArrays.vbproj.GenerateResource.cache
+D:\Coding\VB.NET\week 7\Example1_Arrays\Example2_StringArrays\obj\Debug\Example2_StringArrays.vbproj.CoreCompileInputs.cache
+D:\Coding\VB.NET\week 7\Example1_Arrays\Example2_StringArrays\obj\Debug\Example2_StringArrays.exe
+D:\Coding\VB.NET\week 7\Example1_Arrays\Example2_StringArrays\obj\Debug\Example2_StringArrays.xml
+D:\Coding\VB.NET\week 7\Example1_Arrays\Example2_StringArrays\obj\Debug\Example2_StringArrays.pdb
+C:\Users\58121057-2\Source\Repos\VB-Class-7\Example1_Arrays\Example2_StringArrays\bin\Debug\Example2_StringArrays.exe.config
+C:\Users\58121057-2\Source\Repos\VB-Class-7\Example1_Arrays\Example2_StringArrays\bin\Debug\Example2_StringArrays.exe
+C:\Users\58121057-2\Source\Repos\VB-Class-7\Example1_Arrays\Example2_StringArrays\bin\Debug\Example2_StringArrays.pdb
+C:\Users\58121057-2\Source\Repos\VB-Class-7\Example1_Arrays\Example2_StringArrays\bin\Debug\Example2_StringArrays.xml
+C:\Users\58121057-2\Source\Repos\VB-Class-7\Example1_Arrays\Example2_StringArrays\obj\Debug\Example2_StringArrays.vbprojResolveAssemblyReference.cache
+C:\Users\58121057-2\Source\Repos\VB-Class-7\Example1_Arrays\Example2_StringArrays\obj\Debug\Example2_StringArrays.Form1.resources
+C:\Users\58121057-2\Source\Repos\VB-Class-7\Example1_Arrays\Example2_StringArrays\obj\Debug\Example2_StringArrays.Resources.resources
+C:\Users\58121057-2\Source\Repos\VB-Class-7\Example1_Arrays\Example2_StringArrays\obj\Debug\Example2_StringArrays.vbproj.GenerateResource.cache
+C:\Users\58121057-2\Source\Repos\VB-Class-7\Example1_Arrays\Example2_StringArrays\obj\Debug\Example2_StringArrays.vbproj.CoreCompileInputs.cache
+C:\Users\58121057-2\Source\Repos\VB-Class-7\Example1_Arrays\Example2_StringArrays\obj\Debug\Example2_StringArrays.exe
+C:\Users\58121057-2\Source\Repos\VB-Class-7\Example1_Arrays\Example2_StringArrays\obj\Debug\Example2_StringArrays.xml
+C:\Users\58121057-2\Source\Repos\VB-Class-7\Example1_Arrays\Example2_StringArrays\obj\Debug\Example2_StringArrays.pdb
