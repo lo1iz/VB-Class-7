@@ -5,5 +5,6 @@
         Dim cal = (year + 5) Mod 12
 
         MessageBox.Show($"พ.ศ. {year} ตรงกับปี: {zodiac(cal)}")
+        TextBox1.Text = ""
     End Sub
 End Class

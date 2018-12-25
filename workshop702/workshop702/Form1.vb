@@ -32,4 +32,15 @@
         Next
         Label1.Text = Label
     End Sub
+
+    Private Sub TextBox1_TextChanged(sender As Object, e As EventArgs) Handles TextBox1.TextChanged
+        Dim text As String = TextBox1.Text
+        Button1.Enabled = True
+        Button2.Enabled = True
+        If Text.Length = 0 Then
+            Button1.Enabled = False
+            Button2.Enabled = False
+            Label1.Text = ""
+        End If
+    End Sub
 End Class
